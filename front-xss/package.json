@@ -1,0 +1,25 @@
+{
+  "name": "front-xss",
+  "version": "1.0.8",
+  "description": "前端项目XSS攻击拦截，适用于直接标签引入，webpack打包引入、node环境等。",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.ppdaicorp.com:zoujie/ppd-xss.git"
+  },
+  "keywords": [
+    "xss"
+  ],
+  "publishConfig": {
+    "registry": "http://cnpm.ppdaicorp.com/repository/cnpm-host/"
+  },
+  "author": "zoujie",
+  "license": "ISC"
+}

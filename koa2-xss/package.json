@@ -1,0 +1,23 @@
+{
+  "name": "koa2-xss",
+  "version": "1.0.2",
+  "description": "koa2+node服务层防xss攻击中间件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "front-xss":"^1.0.0"
+  },
+  "keywords": [
+    "koa2xss"
+  ],
+  "author": "zoujie",
+  "license": "ISC"
+}
