@@ -30,6 +30,9 @@ npm run demo01
 
 ```
 npm run build 
+
+单元测试命令
+
 ```
 
 # 如何使用
