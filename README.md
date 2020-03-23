@@ -31,7 +31,7 @@ npm run demo01
 ```
 npm run build 
 
-单元测试命令
+npm run jest-test //单元测试命令
 
 ```
 
