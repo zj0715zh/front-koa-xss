@@ -18,11 +18,16 @@
 
 本插件主要用于预防前端和node的xss攻击，过滤掉可疑的xss攻击字符，插件可用于前端和node层。
 
-# 插件打包方法
+# 本地开发命令
 
 ```
-npm install 
+npm install
+npm run demo01
 ```
+
+
+# 插件打包方法
+
 ```
 npm run build 
 ```
